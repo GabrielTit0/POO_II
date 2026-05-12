@@ -1,6 +1,6 @@
 # 🛠️ Patrones de Diseño (POO II)
 
-¡Hola! 👋 Este repositorio contiene los ejercicios resueltos de las semanas 4 a 7 del curso de **Programación Orientada a Objetos II**.
+Este repositorio contiene los ejercicios resueltos de las semanas 4 a 7 del curso de **Programación Orientada a Objetos II**.
 ---
 
 ## 💻 Lenguajes Utilizados
